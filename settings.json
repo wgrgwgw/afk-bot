@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pixelmine.aternos.me",
+    "ip": "pixelorg.aternos.me",
     "port": 31462,
     "version": "1.20.1",
     "try-creative": false
